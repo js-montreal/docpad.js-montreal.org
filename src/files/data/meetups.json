@@ -2402,4 +2402,32 @@
          "url": "https://facebook.github.io/react-native/"
       }]
    }]
+}, {
+  "num": 93,
+  "title": "<-- Insert Halloween JavaScript Pun Here -->",
+  "on": "20181009",
+  "specialevent": false,
+  "singleSession": false,
+  "blurb": "Meet the future of static websites, and finally learn how authentication works.",
+  "speakers": [{
+     "title": "Authenticated Systems Workshop",
+     "email": "gina@cesine.ca",
+     "name": "Gina Chiodo",
+     "url": "https://gina.cesine.ca/",
+     "synopsis": "In this talk we will go over a few ways you can implement authentication (including offline authentication strategies) and then dive into some code for both a server and a client which you can adapt to suit your own app.",
+     "links": [{
+        "title": "Authenticated Systems Workshop (Github)",
+        "url": "https://github.com/cesine/authenticated-systems-workshop"
+     }]
+  }, {
+     "title": "Gatsby!",
+     "email": "robin@millette.info",
+     "name": "Robin Millette",
+     "url": "http://robin.millette.info/",
+     "synopsis": "Get to know more about the basics of using Gatsby with Robin. He is going to use our own (pretty bad!) js-montreal website as an example, as well his own Bottin de Developpeurs project",
+     "links": [{
+        "title": "Rollodevs: Your locally sourced developer directory",
+        "url": "http://dev.rollodeqc.com/en/"
+     }]
+  }]
 }]
