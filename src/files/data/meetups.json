@@ -2430,4 +2430,22 @@
         "url": "http://dev.rollodeqc.com/en/"
      }]
   }]
+}, {
+  "num": 93,
+  "title": "Can't wait to see someone come up with a Heater.js lib to keep warm in the winter.",
+  "on": "20181009",
+  "specialevent": false,
+  "singleSession": false,
+  "blurb": "",
+  "speakers": [{
+     "title": "Intro to feathers.js",
+     "email": "roy@shakepay.co",
+     "name": "Roy Breidi",
+     "url": "roy@shakepay.co",
+     "synopsis": "Roy will show us a structured demo for an incremental approach to building-from-scratch your first server-side app up within minutes.",
+     "links": [{
+        "title": "feathers.js",
+        "url": "https://feathersjs.com/"
+     }]
+  }]
 }]
