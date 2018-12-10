@@ -2431,9 +2431,9 @@
      }]
   }]
 }, {
-  "num": 93,
+  "num": 94,
   "title": "Can't wait to see someone come up with a Heater.js lib to keep warm in the winter.",
-  "on": "20181009",
+  "on": "20181112",
   "specialevent": false,
   "singleSession": false,
   "blurb": "",
@@ -2447,5 +2447,27 @@
         "title": "feathers.js",
         "url": "https://feathersjs.com/"
      }]
+  }]
+}, {
+  "num": 95,
+  "title": "ES2019 for president!",
+  "on": "20181211",
+  "specialevent": "invue-beer.html",
+  "singleSession": false,
+  "blurb": "Another year goes by, another js framework is created, another framework-considered-harmful blogpost is written, and the world keeps going 'round.",
+  "speakers": [{
+     "title": "Serverless and Javascript",
+     "email": "shannonlal@hotmail.com",
+     "name": "Shannon Lal",
+     "url": "shannonlal@hotmail.com",
+     "synopsis": "Over the last 3 years InVue has been using Javascript and Serverless technologies across multiple products. We will be providing an overview of Serverless and Javascript as well as talking about some of the technical challenges and advantages that it brings.",
+     "links": []
+  }, {
+     "title": "End of year closer",
+     "email": "ckm2k1@gmail.com",
+     "name": "Steve",
+     "url": "ckm2k1@gmail.com",
+     "synopsis": "Let's look back at another year of Javascript, and try to (incorrectly) predict what next year will bring.",
+     "links": []
   }]
 }]
