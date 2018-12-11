@@ -2463,11 +2463,14 @@
      "synopsis": "Over the last 3 years InVue has been using Javascript and Serverless technologies across multiple products. We will be providing an overview of Serverless and Javascript as well as talking about some of the technical challenges and advantages that it brings.",
      "links": []
   }, {
-     "title": "End of year closer",
-     "email": "ckm2k1@gmail.com",
-     "name": "Steve",
-     "url": "ckm2k1@gmail.com",
-     "synopsis": "Let's look back at another year of Javascript, and try to (incorrectly) predict what next year will bring.",
-     "links": []
+     "title": "React Cassette",
+     "email": "therealbenwiley@gmail.com",
+     "name": "Ben Wiley",
+     "url": "therealbenwiley@gmail.com",
+     "synopsis": "Ben will tell us about Cassette, a react-based lib which provides a zero-config component that is a video/audio player for the web. It also provides a React Context-based API that manages media state for your playlist so you can write custom media player UI without having to think about the internals.",
+     "links": [{
+        "title": "Cassette",
+        "url": "https://benwiley4000.github.io/cassette/styleguide/"
+     }]
   }]
 }]
