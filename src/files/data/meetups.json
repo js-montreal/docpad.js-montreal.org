@@ -2473,4 +2473,29 @@
         "url": "https://benwiley4000.github.io/cassette/styleguide/"
      }]
   }]
+}, {
+  "num": 96,
+  "title": "Happy New JavaScript Year to everyone!",
+  "on": "20190108",
+  "specialevent": null,
+  "singleSession": false,
+  "blurb": "Let's kick off the new year with some cool talks on OPA and utopian.io.",
+  "speakers": [{
+     "title": "From OPA to Node-UI5",
+     "email": "arnaud.buchholz@gmail.com",
+     "name": "Arnaud Buchholz",
+     "url": "arnaud.buchholz@gmail.com",
+     "synopsis": "OpenUI5 is a UI ramework that comes with test automation tools (OPA) and in particular with a component capable of mocking ODATA calls (MockServer). This component works in the browser but with the help of jsdom it is possible to embed it in a NodeJS server using express.",
+     "links": []
+  }, {
+     "title": "Utopian.IO",
+     "email": "gregory.luneau@gmail.com",
+     "name": "Gregory Luneau",
+     "url": "gregory.luneau@gmail.com",
+     "synopsis": "I'll be talking about Utopian.io and how they rewards developers by contributing to your favorite Open Source projects like any js github projects.",
+     "links": [{
+        "title": "utopian.io",
+        "url": "https://github.com/utopian-io/v2.utopian.io"
+     }]
+  }]
 }]
