@@ -2498,4 +2498,40 @@
         "url": "https://github.com/utopian-io/v2.utopian.io"
      }]
   }]
+}, {
+  "num": 97,
+  "title": "Happy Valentine's!",
+  "on": "20190212",
+  "specialevent": null,
+  "singleSession": true,
+  "blurb": "Give some JavaScript to your significant others, even if it's just your cat.",
+  "speakers": [{
+     "title": "Vers l'infini... et l'event loop!",
+     "email": "marvin.frachet@gmail.com",
+     "name": "Marvin Frachet",
+     "url": "marvin.frachet@gmail.com",
+     "synopsis": "Ce talk a pour objectif de présenter comment j'ai découvert et compris le fonctionnement de l'event loop. A la fin de ce dernier, vous devriez être en mesure de comprendre les fonctionnements sous jacent des fonctionnalités asynchrones de JavaScript.",
+     "links": []
+  }]
+}, {
+  "num": 98,
+  "title": "JavaSpring",
+  "on": "20190312",
+  "specialevent": null,
+  "singleSession": false,
+  "blurb": "Like fashion, JavaScript has a spring collection, and it's brought to you by js-montreal.",
+  "speakers": [{
+     "title": "Subclassing in ES6",
+     "email": "arnaud.buchholz@gmail.com",
+     "name": "Arnaud Buchholz",
+     "url": "arnaud.buchholz@gmail.com",
+     "synopsis": "Subclassing an ES6 class should be easy, right? What if one want to mix an ES6 class with a non-ES6 one? In this talk, I propose to explore the implementation of classes in JavaScript and see how they can be combined. (No transpiler was harmed during the preparation of this talk)",
+     "links": [{
+        "title": "Arnaud's Blog",
+        "url": "http://gpf-js.blogspot.com/"
+     }, {
+        "title": "Article about this talk",
+        "url": "2019/01/how-i-learned-from-crazy-idea.html"
+     }]
+  }]
 }]
