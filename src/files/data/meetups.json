@@ -2534,4 +2534,25 @@
         "url": "2019/01/how-i-learned-from-crazy-idea.html"
      }]
   }]
+}, {
+  "num": 99,
+  "title": "JavaSpring",
+  "on": "20190409",
+  "specialevent": null,
+  "singleSession": true,
+  "blurb": "JavaScript is like chocolate cake, delicious, rich and tasty, but too much will give you a stomach ache.",
+  "speakers": [{
+     "title": "Modernising plotly.js",
+     "email": "etienne@plot.ly",
+     "name": "Étienne Tétreault-Pinard",
+     "url": "etienne@plot.ly",
+     "synopsis": "Presented by: Etienne, Antoine and Mojtaba - Plotly's graphing library plotly.js has been around for 6 years, a lot of things has happened in JS-land since then. The talk will start by a brief introduction on plotly.js, its ecosystem and its team. We will then focus on the challenges we've had to face to adapt our API for React wrappers, mainly react-plotly.js.",
+     "links": [{
+        "title": "Plotly",
+        "url": "https://plot.ly/"
+     }, {
+        "title": "React Plotly",
+        "url": "https://github.com/plotly/react-plotly.js"
+     }]
+  }]
 }]
