@@ -2554,5 +2554,18 @@
         "title": "React Plotly",
         "url": "https://github.com/plotly/react-plotly.js"
      }]
+  }, {
+     "title": "Gitgraph.js",
+     "email": "nicolascarlo.espeon@gmail.com",
+     "name": "Nicolas Carlo",
+     "url": "nicolascarlo.espeon@gmail.com",
+     "synopsis": "Gitgraph.js is an open-source library that allows you to draw git graphs using a JavaScript API. This talk will explore the inner details of building such a project. I will talk about: open-source, monorepos, SVG rendering, React/Angular adapters and git tricks.",
+     "links": [{
+        "title": "Gitgraph.js",
+        "url": "http://gitgraphjs.com/"
+     }, {
+        "title": "Talk and Slides",
+        "url": "https://skillsmatter.com/conferences/11077-fullstack-nyc-2019-the-conference-on-javascript-node-and-internet-of-things#program"
+     }]
   }]
 }]
