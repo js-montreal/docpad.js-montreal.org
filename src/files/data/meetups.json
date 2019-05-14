@@ -2568,4 +2568,22 @@
         "url": "https://skillsmatter.com/conferences/11077-fullstack-nyc-2019-the-conference-on-javascript-node-and-internet-of-things#program"
      }]
   }]
+}, {
+  "num": 100,
+  "title": "JavaSpring",
+  "on": "20190514",
+  "specialevent": null,
+  "singleSession": true,
+  "blurb": "JavaScript, what is it good for? Absolutely everything!",
+  "speakers": [{
+     "title": "React -- Refs, Hooks and Contexts",
+     "email": "ckm2k1@gmail.com",
+     "name": "Steve Venzerul",
+     "url": "ckm2k1@gmail.com",
+     "synopsis": "Let's look at some often misused, misunderstood and generally missed features of React. Oh and also the new hooks API, which is awesome.",
+     "links": [{
+        "title": "React Docs",
+        "url": "https://reactjs.org/docs/getting-started.html"
+     }]
+  }]
 }]
