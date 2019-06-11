@@ -2586,4 +2586,25 @@
         "url": "https://reactjs.org/docs/getting-started.html"
      }]
   }]
+}, {
+  "num": 101,
+  "title": "JavaSummer",
+  "on": "20190611",
+  "specialevent": null,
+  "singleSession": true,
+  "blurb": "You know it's cold when Hydro-Quebec is making <a href='https://twitter.com/hydroquebec/status/1135547336413855745'>winter jokes</a>",
+  "speakers": [{
+     "title": "Testing tools and best practices",
+     "email": "kevinb7@gmail.com",
+     "name": "Kevin Barabash",
+     "url": "kevinb7@gmail.com",
+     "synopsis": "This talk will the following topics: test hierarchy, AAA testing, jest, enzyme, general best practices for testing as well as specific best practices for jest, async code, component testing, and testing GraphQL components.",
+     "links": [{
+        "title": "Jest",
+        "url": "https://github.com/facebook/jest"
+     }, {
+        "title": "GraphQL",
+        "url": "https://github.com/graphql/graphql-spec"
+     }]
+  }]
 }]
