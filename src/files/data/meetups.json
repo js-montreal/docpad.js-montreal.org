@@ -2607,4 +2607,22 @@
         "url": "https://github.com/graphql/graphql-spec"
      }]
   }]
+}, {
+  "num": 102,
+  "title": "javascript-ness",
+  "on": "20190709",
+  "specialevent": null,
+  "singleSession": true,
+  "blurb": "The summer is finally here, so let's discuss the latest hotness in JS, new global(warming) objects.",
+  "speakers": [{
+     "title": "Tales From Prod: How I learnt to stop worrying and love the BigInt",
+     "email": "ckm2k1@gmail.com",
+     "name": "Steve Venzerul",
+     "url": "ckm2k1@gmail.com",
+     "synopsis": "This is a story that connects strings, redis, 64bit integers, postgres, real-time car data and modern APIs, and by extension, how I struggled for 3 days to write a microservice that works correctly.",
+     "links": [{
+        "title": "V8 -BigInt",
+        "url": "https://v8.dev/blog/bigint"
+     }]
+  }]
 }]
