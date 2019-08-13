@@ -2625,4 +2625,22 @@
         "url": "https://v8.dev/blog/bigint"
      }]
   }]
+}, {
+  "num": 103,
+  "title": "",
+  "on": "20190813",
+  "specialevent": null,
+  "singleSession": true,
+  "blurb": "Just a quickly as it came, summer is already standing by the door, ready to leave. Before it does, let's enjoy a warm cup of JS.",
+  "speakers": [{
+     "title": "Reserve - Lightweight HTTP Server",
+     "email": "arnaud.buchholz@gmail.com",
+     "name": "Arnaud Buchholz",
+     "url": "arnaud.buchholz@gmail.com",
+     "synopsis": "Arnaud will present reserve, a lightweight web server statically configurable with regular expressions. It can also be embedded and extended.",
+     "links": [{
+        "title": "Library Github",
+        "url": "https://github.com/ArnaudBuchholz/reserve"
+     }]
+  }]
 }]
