@@ -2653,4 +2653,32 @@
         "url": "https://flo-qtw.firebaseapp.com/ "
      }]
   }]
+}, {
+  "num": 104,
+  "title": "",
+  "on": "20190910",
+  "specialevent": null,
+  "singleSession": false,
+  "blurb": "Autumn is upon us, soon everything will be pumpkins. I wonder if there's a DOM method to pumpkinify() an element.",
+  "speakers": [{
+     "title": "Introduction to D3.js: Why you probably don't need a chart library",
+     "email": "philippe@goarthur.ai",
+     "name": "Philippe Hebert",
+     "url": "philippe@goarthur.ai",
+     "synopsis": "D3.js js the father of visualisation in the browser. Still relevant 8 years after its birth, it is still the standard today. What makes it so powerful? Come explore D3.js with us, from a 10,000 fleet view to a live implementation in React!",
+     "links": [{
+        "title": "D3.js",
+        "url": "https://d3js.org"
+     }]
+  }, {
+     "title": "Hybrid Apps",
+     "email": "florent.letendre@gmail.com",
+     "name": "Florent Letendre",
+     "url": "florent.letendre@gmail.com",
+     "synopsis": "Florent will show us the way of the Hybrid apps using one of his personal projects built with Angular and Ionic.",
+     "links": [{
+        "title": "The App",
+        "url": "https://flo-qtw.firebaseapp.com/ "
+     }]
+  }]
 }]
