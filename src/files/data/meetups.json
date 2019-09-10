@@ -2630,7 +2630,7 @@
   "title": "",
   "on": "20190813",
   "specialevent": null,
-  "singleSession": true,
+  "singleSession": false,
   "blurb": "Just a quickly as it came, summer is already standing by the door, ready to leave. Before it does, let's enjoy a warm cup of JS.",
   "speakers": [{
      "title": "Reserve - Lightweight HTTP Server",
@@ -2641,6 +2641,16 @@
      "links": [{
         "title": "Library Github",
         "url": "https://github.com/ArnaudBuchholz/reserve"
+     }]
+  }, {
+     "title": "Hybrid Apps",
+     "email": "florent.letendre@gmail.com",
+     "name": "Florent Letendre",
+     "url": "florent.letendre@gmail.com",
+     "synopsis": "Florent will show us the way of the Hybrid apps using one of his personal projects built with Angular and Ionic.",
+     "links": [{
+        "title": "The App",
+        "url": "https://flo-qtw.firebaseapp.com/ "
      }]
   }]
 }]
