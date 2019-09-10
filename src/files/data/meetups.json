@@ -2642,16 +2642,6 @@
         "title": "Library Github",
         "url": "https://github.com/ArnaudBuchholz/reserve"
      }]
-  }, {
-     "title": "Hybrid Apps",
-     "email": "florent.letendre@gmail.com",
-     "name": "Florent Letendre",
-     "url": "florent.letendre@gmail.com",
-     "synopsis": "Florent will show us the way of the Hybrid apps using one of his personal projects built with Angular and Ionic.",
-     "links": [{
-        "title": "The App",
-        "url": "https://flo-qtw.firebaseapp.com/ "
-     }]
   }]
 }, {
   "num": 104,
