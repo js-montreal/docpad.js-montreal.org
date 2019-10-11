@@ -2671,4 +2671,32 @@
         "url": "https://flo-qtw.firebaseapp.com/ "
      }]
   }]
+}, {
+  "num": 105,
+  "title": "",
+  "on": "20191008",
+  "specialevent": null,
+  "singleSession": false,
+  "blurb": "Get out your scariest clothes, cause nothing is scarier than new Javascript features...",
+  "speakers": [{
+     "title": "Achieving peace of mind through test coverage",
+     "email": "ruyadorno@gmail.com",
+     "name": "Ruy Adorno",
+     "url": "http://ruyadorno.com",
+     "synopsis": "Ruy is going to share his experience on how to efficiently implement tests that will allow your team members to sleep at night after each release.",
+     "links": [{
+        "title": "Jest",
+        "url": "https://github.com/facebook/jest"
+     }]
+  }, {
+     "title": "Intro to GraphQL",
+     "email": "bruno.carriere@gmail.com",
+     "name": "Bruno Carriere",
+     "url": "bruno.carriere@gmail.com",
+     "synopsis": "Bruno will show us the goodiness of GraphQL and how it works well as an api gateway/backend-for-frontends in a microservice architecture.",
+     "links": [{
+        "title": "GraphQL",
+        "url": "https://graphql.org"
+     }]
+  }]
 }]
