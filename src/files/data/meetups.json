@@ -2699,4 +2699,25 @@
         "url": "https://graphql.org"
      }]
   }]
+}, {
+  "num": 106,
+  "title": "",
+  "on": "20191112",
+  "specialevent": null,
+  "singleSession": true,
+  "blurb": "Do you want ReasonML in your JS, cause that's how you get ant...I mean, clean code and functional programming.",
+  "speakers": [{
+     "title": "Type Inference and ReasonML",
+     "email": "tjtaill36@gmail.com",
+     "name": "Troy Taillefer",
+     "url": "tjtaill36@gmail.com",
+     "synopsis": "Troy will show us the performance, flexability and benefits of compiled-to-js languages, specifically ReasonML. It brings type goodness of the likes of TypeScript, but without making the typical compromises required of lanaguages that are strict supersets of JS.",
+     "links": [{
+        "title": "ReasonML",
+        "url": "https://reasonml.github.io"
+     }, {
+        "title": "ReasonML React",
+        "url": "https://github.com/reasonml/reason-react"
+     }]
+  }]
 }]
