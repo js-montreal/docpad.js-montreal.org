@@ -13,17 +13,17 @@
     "url": "https://github.com/js-montreal/docpad.js-montreal.git"
   },
   "devDependencies": {
-    "docpad": "^6.78.1",
-    "docpad-plugin-cleanurls": "~2.7.0",
-    "docpad-plugin-coffeescript": "^2.5.0",
-    "docpad-plugin-downloader": "~2.1.4",
-    "docpad-plugin-eco": "~2.1.0",
-    "docpad-plugin-haml": "~2.0.2",
-    "docpad-plugin-jade": "^2.9.0",
-    "docpad-plugin-less": "~2.4.1",
-    "docpad-plugin-livereload": "~2.6.0",
-    "docpad-plugin-partials": "~2.9.1",
-    "moment": "^2.0.0"
+    "docpad": "6.78.1",
+    "docpad-plugin-cleanurls": "2.7.0",
+    "docpad-plugin-coffeescript": "2.5.0",
+    "docpad-plugin-downloader": "2.1.4",
+    "docpad-plugin-eco": "2.1.0",
+    "docpad-plugin-haml": "2.0.2",
+    "docpad-plugin-jade": "2.9.0",
+    "docpad-plugin-less": "2.4.1",
+    "docpad-plugin-livereload": "2.6.0",
+    "docpad-plugin-partials": "2.9.1",
+    "moment": "2.0.0"
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
