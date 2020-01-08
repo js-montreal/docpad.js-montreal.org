@@ -4,3 +4,4 @@ src/files/vendor/twitter-bootstrap
 .DS_Store
 *.sublime-*
 .docpad.db
+.vscode

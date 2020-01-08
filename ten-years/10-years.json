@@ -1,0 +1,235 @@
+[
+  { "email": "neonskimmer@gmail.com", "name": "Bruno Carriere", "count": 8 },
+  { "email": "mazesoul@gmail.com", "name": "Laurent Villeneuve", "count": 6 },
+  { "email": "gary.haran@gmail.com", "name": "Gary Haran", "count": 1 },
+  { "email": "alexis@cloudhead.net", "name": "Alexis Sellier", "count": 2 },
+  { "email": "brapse@gmail.com", "name": "Sean Braithwaite", "count": 1 },
+  { "email": "vsedach@gmail.com", "name": "Vladimir Sedach", "count": 1 },
+  { "email": "james@joyent.com", "name": "James Duncan", "count": 1 },
+  { "email": "jbeard4@cs.mcgill.ca", "name": "Jacob Beard", "count": 1 },
+  { "email": "cedric.dugas@gmail.com", "name": "Cedric Dugas", "count": 3 },
+  { "email": "sean@seancoates.com", "name": "Sean Coates", "count": 1 },
+  { "email": "vrenaudin@gmail.com", "name": "Vincent Renaudin", "count": 1 },
+  { "email": "cmallette@gmail.com", "name": "Christian Joudrey", "count": 2 },
+  { "email": "scott@bulldoginfo.com", "name": "Scott Burch", "count": 1 },
+  { "email": "derek@derekbrans.com", "name": "Derek Brans", "count": 1 },
+  {
+    "email": "arteau.olivier@gmail.com",
+    "name": "Olivier Arteau",
+    "count": 1
+  },
+  { "email": "rahulgarg44@gmail.com", "name": "Rahul Garg", "count": 2 },
+  { "email": "cedric_dugas@hotmail.com", "name": "Cedric Dugas", "count": 1 },
+  { "email": "martin@planbox.com", "name": "Martin Drapeau", "count": 1 },
+  { "email": "mathiasbaert@gmail.com", "name": "Mathias Baert", "count": 1 },
+  {
+    "email": "cedric.dugas@cakemail.com",
+    "name": "Cedric Dugas",
+    "count": 1
+  },
+  {
+    "email": "asobrasil@gmail.com",
+    "name": "André de Santi Oliveira",
+    "count": 1
+  },
+  { "email": "gina.c.cook@gmail.com", "name": "Gina Cook", "count": 3 },
+  {
+    "email": "jeromegn@gmail.com",
+    "name": "Jerome Gravel-Niquet",
+    "count": 1
+  },
+  { "email": "ckm2k1@gmail.com", "name": "Steve Venzerul", "count": 16 },
+  {
+    "email": "martindrapeau@gmail.com",
+    "name": "Martin Drapeau",
+    "count": 1
+  },
+  { "email": "afilina@gmail.com", "name": "Anna Filina", "count": 1 },
+  { "email": "cleung0@gmail.com", "name": "Clarence Leung", "count": 1 },
+  { "email": "olafura@olafura.com", "name": "Olafur Arason", "count": 1 },
+  { "email": "hi@alexanderseville.com", "name": "Alex Seville", "count": 1 },
+  {
+    "email": "lamoureux.florent@gmail.com",
+    "name": "Florent Lamoureux",
+    "count": 1
+  },
+  { "email": "nison.mael@gmail.com", "name": "Maël Nison", "count": 2 },
+  { "email": "maximeb@gmail.com", "name": "Maxime Bergeron", "count": 1 },
+  { "email": "eric.mignot@gmail.com", "name": "Eric Mignot", "count": 1 },
+  {
+    "email": "danielrobertsdesign@gmail.com",
+    "name": "Daniel Roberts",
+    "count": 3
+  },
+  { "email": "ben.nevile@gmail.com", "name": "Ben Neville", "count": 1 },
+  { "email": "rowanu@gmail.com", "name": "Rowan Udell", "count": 1 },
+  { "email": "ryan@kafei.ca", "name": "Ryan Weal", "count": 1 },
+  { "email": "motahawk@gmail.com", "name": "Thomas Thiery", "count": 1 },
+  { "email": "jack@plot.ly", "name": "Jack Parmer", "count": 1 },
+  { "email": "nicolas@kruchten.com", "name": "Nicolas Kruchten", "count": 1 },
+  { "email": "francois@mozilla.com", "name": "Francois Marier", "count": 1 },
+  { "email": "rami.sayar@microsoft.com", "name": "Rami Sayar", "count": 6 },
+  { "email": "jason.abz@gmail.com", "name": "Jason McCarrell", "count": 2 },
+  { "email": "tsherif@gmail.com", "name": "Tarek Sherif", "count": 1 },
+  { "email": "m.vezina@la-grange.ca", "name": "Martin Vézina", "count": 3 },
+  { "email": "sabascabot@gmail.com", "name": "Sebastien Cabot", "count": 1 },
+  {
+    "email": "mdinculescu@gmail.com",
+    "name": "Monica Dinculescu",
+    "count": 1
+  },
+  { "email": "ben@plot.ly", "name": "Ben Postlethwaite", "count": 1 },
+  { "email": "kasperisager@gmail.com", "name": "Kasper Isager", "count": 1 },
+  { "email": "rody@rodyhaddad.com", "name": "Rodric Haddad", "count": 1 },
+  { "email": "kevin.vicrey@nexu.org", "name": "Kevin Vicrey", "count": 2 },
+  {
+    "email": "sacha.lepretre@gmail.com",
+    "name": "Sacha Leprêtre",
+    "count": 2
+  },
+  {
+    "email": "florent@icangowithout.com",
+    "name": "Florent Vilmart",
+    "count": 1
+  },
+  { "email": "alex@evolvingweb.ca", "name": "Alex Dergachev", "count": 1 },
+  { "email": "khoury.marc@gmail.com", "name": "Marc Khoury", "count": 1 },
+  { "email": "ggoodman@gmail.com", "name": "Geoff Goodman", "count": 2 },
+  { "email": "ruyadorno@gmail.com", "name": "Ruy Adorno", "count": 2 },
+  {
+    "email": "sebastienfilion@me.com",
+    "name": "Sebastien Filion",
+    "count": 1
+  },
+  {
+    "email": "jonathan@brandicted.com",
+    "name": "Jonathan Stoikovich",
+    "count": 1
+  },
+  { "email": "ozeki.media@gmail.com", "name": "Osman Zeki", "count": 1 },
+  { "email": "jstahlman@mac.com", "name": "Justin Stahlman", "count": 1 },
+  { "email": "charles@snipcart.com", "name": "Charles Ouellet", "count": 1 },
+  { "email": "marekz@gmail.com", "name": "Marek Zaluski", "count": 3 },
+  { "email": "gwwfps@gmail.com", "name": "David Zhang", "count": 1 },
+  { "email": "jp@cote.cc", "name": "Jean-Philippe Côté", "count": 1 },
+  {
+    "email": "contact@js-montreal.org",
+    "name": "Steve Venzerul & Bruno Carriere",
+    "count": 1
+  },
+  { "email": "andy.am@gmail.com", "name": "Andy Maleh", "count": 1 },
+  {
+    "email": "florent@flovilmart.com",
+    "name": "Florent Vilmart",
+    "count": 1
+  },
+  { "email": "b@turbulent.ca", "name": "Benoit Beauséjour", "count": 1 },
+  {
+    "email": "arnaud.buchholz@free.fr",
+    "name": "Arnaud Buchholz",
+    "count": 1
+  },
+  {
+    "email": "fredericcharette@gmail.com",
+    "name": "Frederic Charette",
+    "count": 3
+  },
+  {
+    "email": "ageissmann@lichencommunications.com",
+    "name": "Alexandre Geissmann",
+    "count": 1
+  },
+  { "email": "mgiroux0@gmail.com", "name": "Marc-Andre Giroux", "count": 1 },
+  {
+    "email": "michaelsanford0@gmail.com",
+    "name": "Michael Sanford",
+    "count": 3
+  },
+  {
+    "email": "alain.gaeremynck@pj.ca",
+    "name": "Alain Gaeremynck",
+    "count": 1
+  },
+  { "email": "karim.besbes@ubisoft.com", "name": "Karim Besbes", "count": 1 },
+  {
+    "email": "denis.grigor@autodesk.com",
+    "name": "Denis Grigor",
+    "count": 1
+  },
+  { "email": "assane.gueye@ubisoft.com", "name": "Assane Gueye", "count": 1 },
+  {
+    "email": "christophe@busbud.com",
+    "name": "Christophe Naud-Dulude",
+    "count": 1
+  },
+  { "email": "nick@iamdeveloper.com", "name": "Nick Taylor", "count": 2 },
+  { "email": "osman@zeki.ca", "name": "Osman Zeki", "count": 1 },
+  {
+    "email": "mathieu.k.legault@gmail.com",
+    "name": "Mathieu Legault",
+    "count": 1
+  },
+  { "email": "francois@pliab.com", "name": "François Pliab", "count": 1 },
+  {
+    "email": "mats.ljunggren@boozang.com",
+    "name": "Mats Ljunggren",
+    "count": 1
+  },
+  { "email": "sylvhama@gmail.com", "name": "Sylvain Hamann", "count": 1 },
+  { "email": "r@robynlarsen.ca", "name": "Robyn Larsen", "count": 1 },
+  {
+    "email": "k.artemov@gmail.com",
+    "name": "Kostyantyn Artemov",
+    "count": 1
+  },
+  { "email": "joel.lord@auth0.com", "name": "Joel Lord", "count": 1 },
+  {
+    "email": "sommerquentin67@gmail.com",
+    "name": "Quentin Sommer",
+    "count": 1
+  },
+  { "email": "kevinb7@gmail.com", "name": "Kevin Barabash", "count": 2 },
+  { "email": "alexchalk17@gmail.com", "name": "Alex Chalk", "count": 2 },
+  { "email": "therealbenwiley@gmail.com", "name": "Ben Wiley", "count": 2 },
+  {
+    "email": "desmarais.michaud.david@gmail.com",
+    "name": "David Demarais-Michaud",
+    "count": 1
+  },
+  { "email": "kreeves@turbulent.ca", "name": "Kim Reeves", "count": 1 },
+  { "email": "gina@cesine.ca", "name": "Gina Chiodo", "count": 1 },
+  { "email": "robin@millette.info", "name": "Robin Millette", "count": 1 },
+  { "email": "roy@shakepay.co", "name": "Roy Breidi", "count": 1 },
+  { "email": "shannonlal@hotmail.com", "name": "Shannon Lal", "count": 1 },
+  {
+    "email": "arnaud.buchholz@gmail.com",
+    "name": "Arnaud Buchholz",
+    "count": 3
+  },
+  {
+    "email": "gregory.luneau@gmail.com",
+    "name": "Gregory Luneau",
+    "count": 1
+  },
+  {
+    "email": "marvin.frachet@gmail.com",
+    "name": "Marvin Frachet",
+    "count": 1
+  },
+  {
+    "email": "etienne@plot.ly",
+    "name": "Étienne Tétreault-Pinard",
+    "count": 1
+  },
+  {
+    "email": "nicolascarlo.espeon@gmail.com",
+    "name": "Nicolas Carlo",
+    "count": 1
+  },
+  { "email": "philippe@goarthur.ai", "name": "Philippe Hebert", "count": 1 },
+  {
+    "email": "florent.letendre@gmail.com",
+    "name": "Florent Letendre",
+    "count": 1
+  }
+]

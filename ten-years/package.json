@@ -1,0 +1,12 @@
+{
+  "name": "ten-years",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "browser-sync start -s "
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
