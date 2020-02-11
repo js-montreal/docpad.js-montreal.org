@@ -2720,4 +2720,22 @@
         "url": "https://github.com/reasonml/reason-react"
      }]
   }]
+}, {
+  "num": 109,
+  "title": "It's a whole new year!",
+  "on": "20200211",
+  "specialevent": null,
+  "singleSession": true,
+  "blurb": "JS and memory management don't generally have fun, unless you try really hard.",
+  "speakers": [{
+     "title": "What happens when you want your uint8array to be larger than 2.1G?",
+     "email": "therealbenwiley@gmail.com",
+     "name": "Ben Wiley",
+     "url": "therealbenwiley@gmail.com",
+     "synopsis": "Ben will show us what happens when you want more memory than JS is comfortable with and what to do to get it to play ball.",
+     "links": [{
+        "title": "MDN uint8array",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array"
+     }]
+  }]
 }]
