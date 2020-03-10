@@ -2738,4 +2738,35 @@
         "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array"
      }]
   }]
+}, {
+  "num": 110,
+  "title": "Javascript Groove",
+  "on": "20200310",
+  "specialevent": null,
+  "singleSession": false,
+  "blurb": "The holidays always add pounds to our figure, so let's get Svelte to help out and maybe climb some syntax trees too.",
+  "speakers": [{
+     "title": "Lessons from the JavaScript Syntax Tree",
+     "email": "marekz@gmail.com",
+     "name": "Marek Zaluski",
+     "url": "marekz@gmail.com",
+     "synopsis": "The syntax tree is how the JS engine parses your code. Understanding the JS syntax tree can make you a better developer. We're going to look at some lessons we can learn from the syntax tree, including operator precedence and the difference between statements and expressions.",
+     "links": [{
+        "title": "TernJS",
+        "url": "https://ternjs.net/"
+     }, {
+        "title": "AST Explorer",
+        "url": "https://astexplorer.net"
+     }]
+  }, {
+     "title": "Svelte.js",
+     "email": "joshnuss@gmail.com",
+     "name": "Joshua Nussbaum",
+     "url": "joshnuss@gmail.com",
+     "synopsis": "A gentle introduction to Svelte, and how to build a frontend with less code.",
+     "links": [{
+        "title": "Svelte.js",
+        "url": "https://svelte.dev"
+     }]
+  }]
 }]
