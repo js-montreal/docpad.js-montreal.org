@@ -2836,7 +2836,7 @@
    "blurb": "Join us one last time this year with a presentation about how Maxime team worked with Twitch to build new engagement experiences for their streamers, with javascript of course.",
    "speakers": [{
       "title": "Codename: Moodland",
-      "email": "",
+      "email": "m.desroches@la-grange.ca",
       "name": "Maxime Desroche",
       "url": "",
       "synopsis": "A new set of tools built with javascript to engage with your favorite Twitch streamers and create immersive experiences.",
