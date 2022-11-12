@@ -2769,4 +2769,80 @@
         "url": "https://svelte.dev"
      }]
   }]
+}, {
+   "num": 111,
+   "title": "Covid? What is that?",
+   "on": "20220913",
+   "specialevent": null,
+   "singleSession": true,
+   "blurb": "We are finally back in person!",
+   "speakers": [{
+      "title": "Micro-Frontends Madness",
+      "email": "cedric.dugas@gmail.com",
+      "name": "Cedric Dugas",
+      "url": "cedric.dugas@gmail.com",
+      "synopsis": "Micro-Frontends and Webpack module Federation in action.",
+      "links": [{
+         "title": "Webpack Module Federation",
+         "url": "https://webpack.js.org/concepts/module-federation/"
+      }]
+   }]
+}, {
+   "num": 112,
+   "title": "Crypto Music and tRPC",
+   "on": "20221011",
+   "specialevent": null,
+   "singleSession": true,
+   "blurb": "In this second post-Covid meetup, we will be doing 2 lightning talk about crypto music and tRPC.",
+   "speakers": [{
+      "title": "tRPC, end to end typesafe API and frontend",
+      "email": "cedric.dugas@gmail.com",
+      "name": "Cedric Dugas",
+      "url": "",
+      "synopsis": "tRPC is a new way to do APIs. It's a framework that allows you to create a typesafe API and frontend in a single codebase.",
+      "links": [{
+         "title": "tRPC Documentation",
+         "url": "https://trpc.io/"
+      }]
+   }]
+}, {
+   "num": 113,
+   "title": "Music built with JS?!",
+   "on": "20221108",
+   "specialevent": null,
+   "singleSession": true,
+   "blurb": "This month we are deep in music, javascript built music that is.",
+   "speakers": [{
+      "title": "DSP with Elementary Audio",
+      "email": "dwawryko@gmail.com",
+      "name": "David Wawryko",
+      "url": "",
+      "synopsis": "David will show us his exploration of DSP with Elementary Audio which is a framework for writing high performance, native audio applications with a functional, declarative JavaScript API.",
+      "links": [{
+         "title": "Elementary Audio Documentation",
+         "url": "https://www.elementary.audio/"
+      },
+      {
+         "title": "David Github",
+         "url": "https://github.com/digitaIfabric"
+      }]
+   }]
+}, {
+   "num": 114,
+   "title": "The holidays are upon us!",
+   "on": "20221213",
+   "specialevent": null,
+   "singleSession": true,
+   "blurb": "Join us one last time this year with a presentation about how Maxime team worked with Twitch to build new engagement experiences for their streamers, with javascript of course.",
+   "speakers": [{
+      "title": "Codename: Moodland",
+      "email": "m.desroches@la-grange.ca",
+      "name": "Maxime Des Roches",
+      "url": "",
+      "synopsis": "A new set of tools built with javascript to engage with your favorite Twitch streamers and create immersive experiences.",
+      "links": [{
+         "title": "Moodland Case Study",
+         "url": "https://www.behance.net/gallery/152580075/Twitch-Moodland"
+      }]
+   }]
 }]
